@@ -1,0 +1,15 @@
+C:\Users\ASUS\ClosureStudy\Closure\bin\Debug\net6.0\Closure.exe
+C:\Users\ASUS\ClosureStudy\Closure\bin\Debug\net6.0\Closure.deps.json
+C:\Users\ASUS\ClosureStudy\Closure\bin\Debug\net6.0\Closure.runtimeconfig.json
+C:\Users\ASUS\ClosureStudy\Closure\bin\Debug\net6.0\Closure.dll
+C:\Users\ASUS\ClosureStudy\Closure\bin\Debug\net6.0\Closure.pdb
+C:\Users\ASUS\ClosureStudy\Closure\obj\Debug\net6.0\Closure.csproj.AssemblyReference.cache
+C:\Users\ASUS\ClosureStudy\Closure\obj\Debug\net6.0\Closure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\ClosureStudy\Closure\obj\Debug\net6.0\Closure.AssemblyInfoInputs.cache
+C:\Users\ASUS\ClosureStudy\Closure\obj\Debug\net6.0\Closure.AssemblyInfo.cs
+C:\Users\ASUS\ClosureStudy\Closure\obj\Debug\net6.0\Closure.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\ClosureStudy\Closure\obj\Debug\net6.0\Closure.dll
+C:\Users\ASUS\ClosureStudy\Closure\obj\Debug\net6.0\refint\Closure.dll
+C:\Users\ASUS\ClosureStudy\Closure\obj\Debug\net6.0\Closure.pdb
+C:\Users\ASUS\ClosureStudy\Closure\obj\Debug\net6.0\Closure.genruntimeconfig.cache
+C:\Users\ASUS\ClosureStudy\Closure\obj\Debug\net6.0\ref\Closure.dll
